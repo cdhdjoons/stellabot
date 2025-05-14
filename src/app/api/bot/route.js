@@ -35,7 +35,7 @@ You've entered the world of Play to Conquer, where strategy meets exploration �
 Tap a button below to launch your command!
   `;
 
-  const pngUrl = 'https://stellabot.vercel.app/stellapic.png';  // public 폴더에 있는 이미지 파일 경로
+  const pngUrl = 'https://stellabot-five.vercel.app/stellapic.png';  // public 폴더에 있는 이미지 파일 경로
 
   // ✅ GIF + 메시지 + 버튼을 한 번에 보냄
   await ctx.replyWithPhoto(pngUrl, {
